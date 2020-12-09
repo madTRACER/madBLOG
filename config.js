@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://madtracer.netlify.com',
+  url: 'https://madtracer.com',
   pathPrefix: '/',
   title: 'madTRACER | cyberImplantation',
   subtitle: '',
