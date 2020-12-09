@@ -5,7 +5,7 @@ date: '2020-10-14T23:37:21+06:00'
 template: 'post'
 draft: false
 slug: 'migrate-from-wordpress-to-gatsbyjs'
-category: 'Life'
+categories: ['Life']
 tags: []
 socialImage: '/media/2020-10-14--migrate.png'
 ---
